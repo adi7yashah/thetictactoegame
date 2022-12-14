@@ -53,7 +53,7 @@ int main()
     char board[] = {'1', '2', '3', '4', '5', '6', '7', '8', '9'};
 
     cout << "Welcome to TicTacToe game!" <<endl;
-    cout << "By: Diardano Raihan" <<endl;
+    cout << "By: Aditya shah" <<endl;
 
     displayBoard(board);
 
